@@ -1,3 +1,3 @@
-module code.sohuno.com/sky/fdfs_client
+module github.com/HelloMrShu/fdfs_client
 
 go 1.19
