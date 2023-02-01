@@ -24,7 +24,7 @@ DeleteFile
 
 ## Import
 ```bash
-go get code.sohuno.com/sky/fdfs_client
+go get github.com/HelloMrShu/fdfs_client
 ```
 
 ## Use
