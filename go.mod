@@ -1,3 +1,3 @@
-module github.com/HelloMrShu/fdfs_client
+module github.com/fangzio/fdfs_client
 
 go 1.19
